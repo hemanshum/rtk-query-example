@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Brandi Zemlak",
+      "id": 5
+    },
+    {
+      "name": "Lester Stark MD",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Rubber Towels",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Wooden Sausages",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Generic Metal Fish",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Rubber Keyboard",
+      "id": 19
+    }
+  ],
+  "photos": []
+}
